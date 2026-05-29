@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 本工具运行时产物（绝不入库：可能含真实路径 / 账号信息）
+*.tar.zst
+*.tar.gz
+*.tgz
+snapshots/
+manifests/
+*.log
+.claude-vault/

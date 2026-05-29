@@ -4,6 +4,12 @@ English | [中文](#chinese)
 
 > **Skillyard** is a curated, open collection of **Claude Code skills** and **agent skills** — reusable, self-contained tools you can drop into [Claude Code](https://claude.com/claude-code), the Claude Agent SDK, Codex, or any agent that supports the open `SKILL.md` format.
 
+## Skills
+
+| Skill | What it does |
+|---|---|
+| [**claude-vault**](./skills/claude-vault/) | Recover your Claude Code account in seconds after a ban; back up & migrate your whole `~/.claude` (history, skills, settings, memory). |
+
 ## What's a Skill?
 
 A Skill is a folder containing a `SKILL.md` (instructions + metadata) plus any supporting scripts, templates, or reference files. The agent loads a Skill on demand when a task matches its description — so you get specialized behavior without bloating every prompt.
@@ -39,6 +45,12 @@ _TBD — see repository owner._
 [English](#skillyard) | 中文
 
 > **Skillyard** 是一套精选、开放的 **Claude Code 技能 / AI agent 技能** 合集——每个技能即插即用、自包含，可直接放进 [Claude Code](https://claude.com/claude-code)、Claude Agent SDK、Codex，或任意支持开放 `SKILL.md` 标准的 agent。
+
+## 技能清单
+
+| 技能 | 作用 |
+|---|---|
+| [**claude-vault**](./skills/claude-vault/) | 账号被封后几秒钟恢复 Claude Code 账号；备份与迁移整个 `~/.claude`（对话、skills、设置、memory）。 |
 
 ## 什么是 Skill（技能）？
 

@@ -34,7 +34,7 @@ The agent picks it up automatically on the next run.
 
 ## License
 
-_TBD — see repository owner._
+[MIT](./LICENSE) © 2026 PMWang
 
 ---
 
@@ -76,7 +76,7 @@ skills/
 
 ## 许可证
 
-_待定 —— 见仓库所有者。_
+[MIT](./LICENSE) © 2026 PMWang
 
 ---
 

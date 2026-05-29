@@ -1,6 +1,6 @@
-# Skills for Everything
+# Skillyard
 
-A curated, open collection of **Agent Skills** — reusable, self-contained capabilities you can drop into [Claude Code](https://claude.com/claude-code), the Claude Agent SDK, or any agent that supports the Skills format.
+> **Skillyard** is a curated, open collection of **Claude Code skills** and **agent skills** — reusable, self-contained tools you can drop into [Claude Code](https://claude.com/claude-code), the Claude Agent SDK, Codex, or any agent that supports the open `SKILL.md` format.
 
 ## What's a Skill?
 

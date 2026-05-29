@@ -18,3 +18,9 @@ secrets.*
 credentials.*
 *.pem
 *.key
+
+# Claude Code local project state
+.claude/
+
+# Work-in-progress / internal — not for public publish
+多核AI协同-分享deck/
